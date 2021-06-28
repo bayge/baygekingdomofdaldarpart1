@@ -1,0 +1,9 @@
+Modlar %100 Çalışıyor
+1.16.5 için yapılmıştır
+Kurulum: Mod
+Kullanıcı Adı > AppData > Roaming > .minecraft > mods
+ve tüm jar dosyalarını oraya yapıştırın
+
+Kurulum: Map
+Kullanıcı Adı > AppData > Roaming > .minecraft > Saves
+Kingdom Of Daldar Zip in içindeki dosyayı atınız

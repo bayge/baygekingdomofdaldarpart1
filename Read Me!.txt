@@ -1,0 +1,9 @@
+Mods 100% Working
+Made for 1.16.5
+Installation: Mod
+Username > AppData > Roaming > .minecraft > mods
+and paste all jar files there
+
+Installation: Map
+Username > AppData > Roaming > .minecraft > Saves
+Extract the file inside the Kingdom Of Daldar Zip
